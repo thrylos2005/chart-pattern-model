@@ -1,0 +1,23 @@
+# Python / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+
+# Heavy Machine Learning Outputs
+chart_pattern_data_*/
+chart_pattern_model_*/
+prediction_results/
+*.npy
+*.pkl
+*.h5
+*.weights.h5
+*.log
+
+# Allow keeping the empty prediction_results folder if needed
+!prediction_results/.gitkeep
+
+!*.pyc

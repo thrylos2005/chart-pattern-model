@@ -1,0 +1,90 @@
+{
+    "timestamp": "2025-03-05T02:18:22.797744",
+    "symbols": [
+        "BTCUSDT",
+        "ETHUSDT",
+        "BNBUSDT",
+        "SOLUSDT",
+        "ADAUSDT",
+        "XRPUSDT",
+        "AVAXUSDT",
+        "DOTUSDT",
+        "DOGEUSDT",
+        "MATICUSDT"
+    ],
+    "timeframe": "1d",
+    "years": 8,
+    "train_models": true,
+    "results": {
+        "BTCUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_BTCUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_BTCUSDT_8years"
+        },
+        "ETHUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_ETHUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_ETHUSDT_8years"
+        },
+        "BNBUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_BNBUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_BNBUSDT_8years"
+        },
+        "SOLUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_SOLUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_SOLUSDT_8years"
+        },
+        "ADAUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_ADAUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_ADAUSDT_8years"
+        },
+        "XRPUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_XRPUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_XRPUSDT_8years"
+        },
+        "AVAXUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_AVAXUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_AVAXUSDT_8years"
+        },
+        "DOTUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_DOTUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_DOTUSDT_8years"
+        },
+        "DOGEUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_DOGEUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_DOGEUSDT_8years"
+        },
+        "MATICUSDT": {
+            "status": "success",
+            "data_points": 1000,
+            "save_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_data_MATICUSDT_8years",
+            "model_trained": true,
+            "model_dir": "C:\\Users\\thedh\\Downloads\\chart_pattern_model\\chart_pattern_model_MATICUSDT_8years"
+        }
+    }
+}
